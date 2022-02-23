@@ -1,1 +1,3 @@
---- {}
+classes:
+  - commonyamlclass2
+  - commonyamlclass1
